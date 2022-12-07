@@ -1,0 +1,33 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-langportal-dev-205738-authRole",
+      "UnauthRoleArn": "arn:aws:iam::679417760315:role/amplify-langportal-dev-205738-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::679417760315:role/amplify-langportal-dev-205738-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-langportal-dev-205738-deployment",
+      "UnauthRoleName": "amplify-langportal-dev-205738-unauthRole",
+      "StackName": "amplify-langportal-dev-205738",
+      "StackId": "arn:aws:cloudformation:us-east-2:679417760315:stack/amplify-langportal-dev-205738/9933a2e0-6623-11ed-a9d5-0a4c17ebbd26",
+      "AmplifyAppId": "d1hafrqbe5pp66"
+    },
+    "categories": {
+      "auth": {
+        "langportal7129262a": {}
+      },
+      "predictions": {
+        "langportals2t": {},
+        "speechGenerator9e34938a": {}
+      },
+      "function": {
+        "langportal6594e59f": {
+          "deploymentBucketName": "amplify-langportal-dev-205738-deployment",
+          "s3Key": "amplify-builds/langportal6594e59f-434b6e6b357a51644d62-build.zip"
+        }
+      },
+      "api": {
+        "apif70e0ce1": {}
+      }
+    }
+  }
+}

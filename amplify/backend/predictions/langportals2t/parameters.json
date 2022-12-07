@@ -1,0 +1,13 @@
+{
+    "resourceName": "langportals2t",
+    "convertPolicyName": "transcriptionPolicy0887117d",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "convertType": "transcription",
+    "language": "en-US",
+    "access": "authAndGuest"
+}

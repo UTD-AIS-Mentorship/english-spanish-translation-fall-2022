@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/translate": {
+      "name": "/translate",
+      "lambdaFunction": "langportal6594e59f",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
